@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Clock from './clock'
+import Clock from './components/clock'
 import Tabs from './tabs';
 
 function App() {
